@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build BRD from Files"
+  short_description: "Turn mixed source files into a traceable BRD"
+  default_prompt: "Use $build-brd-from-files to create a traceable BRD from these file paths: [paths]."
